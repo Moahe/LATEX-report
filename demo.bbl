@@ -1,91 +1,29 @@
-\begin{thebibliography}{10}
+\begin{thebibliography}{2}
 
-\bibitem{beck:1989}
-Kent Beck and Ward Cunningham.
-\newblock A laboratory for teaching object-oriented thinking.
-\newblock In {\em Proceedings OOPSLA'89}, pages 1--6, 1989.
- \begin{quotation}\noindent The original (classical) paper on CRC-cards. A must
-  read for everyone interested in CRC-cards, although the paper is quite
-  superficial in many places. The authors highlight that they used the approach
-  with experienced programmers. Their experience might therefore not easily
-  transfer to novices. \end{quotation}
+\bibitem{soi2017}
+{S}venskarna och internet
+\newblock Internetstiftelsen i Sverige, 2017.
+\newblock \url{http://www.soi2017.se/e-handel-och-banktjanster/}, accessed 2018-02-11.
 
-\bibitem{bergin:2000}
-Joseph Bergin.
-\newblock The object game---an exercise for studying objects.
-\newblock \url{Http://csis.pace.edu/~bergin/patterns/objectgame.html}, accessed
-  2008-01-22, 2006.
+\bibitem{busarticle}
+{A}pple pay is coming to the nordics
+\newblock Business Insider, 2017.
+\newblock \url{http://nordic.businessinsider.com/apple-pay-is-finally-coming-to-the-nordics---but-the-battle-may-be-already-lost-2017-8/}, accessed 2018-02-11.
 
+\bibitem{paymentinf}
+How mobile payment influences the overall store price image
+\newblock TomasFalk, Werner H.Kunz, Jeroen J.L.Schepers, Alexander J.Mrozek, 2016.
+\newblock \url{https://www-sciencedirect-com.proxy.ub.umu.se/science/article/pii/S0148296316000242/}, accessed 2018-02-11.
 
-\bibitem{bluej}
-{B}lue{J}.
-\newblock Tool homepage, 2005.
-\newblock \url{Http://www.buej.org}, accessed 2005-01-12.
+\bibitem{blipp}
+Allt fler blippar vacker oro bland konsumenter
+\newblock Ebba Blume, 2017.
+\newblock \url{{https://www.svd.se/allt-fler-valjer-att-betala-kontantlost/}, accessed 2018-02-11.
 
+\bibitem{card}
+Visa Gives Its Contactless Payment Card Program a Global Push
+\newblock Mary Catherine O'Connor, 2006.
+\newblock \url{{http://www.rfidjournal.com/articles/view?2875/}, accessed 2018-03-4.
 
-\bibitem{booch:1999}
-Grady Booch, James Rumbaugh, and Ivar Jacobson.
-\newblock {\em The Unified Modeling Language User Guide}.
-\newblock Addison-Wesley, Reading, MA, 1999.
- \begin{quotation}\noindent The definite source for UML by the original
-  developers. Somewhat out of date, since it refers to UML 1.x. There is a
-  second edition covering UML2.0. \end{quotation}
-
-\bibitem{borstler:2004}
-Jürgen Börstler.
-\newblock Object-oriented analysis and design through scenario role-play.
-\newblock Technical Report UMINF-04.04, Dept.\ of Computing Science, Ume{\aa}
-  University, Ume{\aa}, Sweden, 2004.
- \begin{quotation}\noindent Describes the usage of CRC cards
-  (see~\cite{beck:1989}) for teaching novices in great detail. Introduces a new
-  kind of diagram (roleplay diagrams) to track and document scenarios. Comes
-  with a detailed example. \end{quotation}
-
-\bibitem{cacm-forum:2002}
-{CACM Forum}.
-\newblock `{H}ello, {W}orld' gets mixed greetings.
-\newblock {\em Communications of the ACM}, 45(2):11--15, 2002.
-
-
-\bibitem{Corradini-Drewes:11}
-Andrea Corradini and Frank Drewes.
-\newblock Term graph rewriting and parallel term rewriting.
-\newblock In {\em Proc.\ 6th Intl.\ Workshop on Computing with Terms and Graphs
-  (TERMGRAPH~2011)}, Electronic Proceedings in Theoretical Computer Science,
-  pages 3--18, 2011.
-
-
-\bibitem{fleury:2000}
-Ann~E. Fleury.
-\newblock Programming in {J}ava: Student-constructed rules.
-\newblock In {\em Proceedings SIGCSE'00}, pages 197--201, 2000.
- \begin{quotation}\noindent Describes the rules that students constructed to
-  explain to themselves how certain things work. These rules do often not
-  explain things correctly and/or completely. \par This can lead to
-  \emph{misconceptions} (i.e., erroneous ``understandings'' of concepts) that
-  will likely lead to misunderstandings and errors. Such misconceptions are
-  fully consistent with a constructivistic view of learning. The students learn
-  by integrating new things with already known things, based on their current
-  (incomplete) knowledge about the subject and related topics. \end{quotation}
-
-\bibitem{granerud:2006}
-R.~Granerud, J.~Kaasb{\o}ll, R.~Borge, C.~Holmboe, and O.~Sm{\o}rdal.
-\newblock Children's understanding of object-orientation.
-\newblock In Annita Fjuk, Amela Karahasanovic, and Jens Kaasb{\o}ll, editors,
-  {\em Comprehensive Object-Oriented Learning: The Learner's Perspective},
-  pages 27--47. Informing Science Press, Santa Rosa, CA, USA, 2006.
-
-
-\bibitem{thimbleby:1999}
-H.~Thimbleby.
-\newblock A critique of {J}ava.
-\newblock {\em Software---Practice and Experience}, 29(5):457--478, 1999.
- \begin{quotation}\noindent A very interesting paper discussing a range of
-  problems in Java. In particular the discussion about Strings is very
-  interesting. The author makes a convincing case that Strings are no
-  ``proper'' objects, since they cannot be changed. The ability of an object to
-  change its (internal) state depending on the messages it receives is
-  otherwise considered as an inherent property of objects in the
-  object-oriented paradigm. \end{quotation}
 
 \end{thebibliography}
